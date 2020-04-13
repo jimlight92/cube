@@ -1,10 +1,10 @@
 import React from 'react'
-import Splash from './splash/splash'
+import Cube from './cube'
 
 function App() {
   return (
     <div>
-      <Splash />
+      <Cube />
     </div>
   );
 }
