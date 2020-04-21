@@ -4,7 +4,7 @@ import { Container } from '@material-ui/core'
 
 export default () => (
     <>
-        <Container>
+        <Container style={{ height: '100%' }}>
             <Routes />
         </Container>
     </>
